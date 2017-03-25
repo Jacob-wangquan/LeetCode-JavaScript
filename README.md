@@ -42,7 +42,10 @@ My Javascript algorithms solutions for [LeetCode](https://leetcode.com/) problem
 |  67  | [Add Binary](https://leetcode.com/problems/add-binary) | [JavaScript](/algorithms/67-add-binary.js) | Easy |
 |  69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [JavaScript](/algorithms/69-sqrtx.js) | Easy |
 |  104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [JavaScript](./algorithms/104-maximum-depth-of-binary-tree.js) | Easy |
+|  168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [JavaScript](./algorithms/168-excel-sheet-column-title.js) | Easy |
+|  237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [JavaScript](./algorithms/237-delete-node-in-a-linked-list.js) | Easy |
 |  344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [JavaScript](./algorithms/344-reverse-string.js) | Easy |
+|  367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [JavaScript](./algorithms/367-valid-perfect-square.js) | Easy |
 
 
 ## Shell 
