@@ -38,10 +38,13 @@ My Javascript algorithms solutions for [LeetCode](https://leetcode.com/) problem
 |  35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [JavaScript](./algorithms/35-search-insert-position.js) | Easy |
 |  38  | [Count and Say](https://leetcode.com/problems/count-and-say) | [JavaScript](./algorithms/38-count-and-say.js) | Easy |
 |  58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [JavaScript](./algorithms/58-length-of-last-word.js) | Easy |
-|  66  | [Plus One](https://leetcode.com/problems/plus-one) | [JavaScript](/algorithms/66-plus-one.js) | Easy |
-|  67  | [Add Binary](https://leetcode.com/problems/add-binary) | [JavaScript](/algorithms/67-add-binary.js) | Easy |
-|  69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [JavaScript](/algorithms/69-sqrtx.js) | Easy |
+|  66  | [Plus One](https://leetcode.com/problems/plus-one) | [JavaScript](./algorithms/66-plus-one.js) | Easy |
+|  67  | [Add Binary](https://leetcode.com/problems/add-binary) | [JavaScript](./algorithms/67-add-binary.js) | Easy |
+|  69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [JavaScript](./algorithms/69-sqrtx.js) | Easy |
+|  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [JavaScript](./algorithms/88-merge-sorted-array.js) | Easy |
+|  89  | [Gray Code](https://leetcode.com/problems/gray-code) | [JavaScript](./algorithms/89-gray-code.js) | Medium |
 |  104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [JavaScript](./algorithms/104-maximum-depth-of-binary-tree.js) | Easy |
+|  125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [JavaScript](./algorithms/125-valid-palindrome.js) | Easy |
 |  168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [JavaScript](./algorithms/168-excel-sheet-column-title.js) | Easy |
 |  237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [JavaScript](./algorithms/237-delete-node-in-a-linked-list.js) | Easy |
 |  344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [JavaScript](./algorithms/344-reverse-string.js) | Easy |
